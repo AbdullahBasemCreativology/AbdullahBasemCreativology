@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=230&section=header&text=Creativology&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Digital%20Products%20That%20Scale&descSize=20&descAlignY=58" width="100%" alt="Creativology" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=Custom+web+platforms+built+with+Laravel;Cross-platform+mobile+apps+with+Flutter;Rapid+delivery+with+CodeIgniter;Secure+APIs.+Clean+architecture.+Measurable+results." alt="Creativology services" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,js,vue,tailwind,bootstrap,flutter,dart,firebase,docker,nginx,linux,git,github&perline=8" alt="Technology stack" />
 
 <br/><br/>
+
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
 
 <a href="https://creativology.me/"><img src="https://img.shields.io/badge/Website-creativology.me-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="mailto:info@creativology.org"><img src="https://img.shields.io/badge/Email-info@creativology.org-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
