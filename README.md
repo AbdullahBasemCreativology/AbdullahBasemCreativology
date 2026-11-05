@@ -70,7 +70,7 @@ Creativology is a software company specializing in custom web applications, Flut
 
 <div align="center">
 
-<a href="https://creativology.me/"><b>creativology.me</b></a> &nbsp;|&nbsp; <a href="mailto:info@creativology.org"><b>info@creativology.org</b></a> &nbsp;|&nbsp; <a href="tel:+962797366691"><b>+962 79 7366691</b></a>
+<a href="https://creativology.me/"><b>creativology.me</b></a> &nbsp;|&nbsp; <a href="mailto:info@creativology.org"><b>info@creativology.org</b></a> &nbsp;|&nbsp; <a href="tel:+962796755595"><b>+962 79 6755595</b></a>
 
 <br/><br/>
 
