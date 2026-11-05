@@ -4,9 +4,6 @@
 
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,js,vue,tailwind,bootstrap,flutter,dart,firebase,docker,nginx,linux,git,github&perline=8" alt="Technology stack" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
 
 <a href="https://creativology.me/"><img src="https://img.shields.io/badge/Website-creativology.me-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="mailto:info@creativology.org"><img src="https://img.shields.io/badge/Email-info@creativology.org-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
