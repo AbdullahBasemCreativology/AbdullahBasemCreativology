@@ -8,7 +8,7 @@
 
 <a href="https://creativology.me/"><img src="https://img.shields.io/badge/Website-creativology.me-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="mailto:info@creativology.org"><img src="https://img.shields.io/badge/Email-info@creativology.org-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="tel:+962797366691"><img src="https://img.shields.io/badge/Phone-+962%2079%207366691-0F172A?style=for-the-badge" alt="Phone" /></a>
+<a href="tel:+962796755595"><img src="https://img.shields.io/badge/Phone-+962%2079%206755595-0F172A?style=for-the-badge" alt="Phone" /></a>
 
 </div>
 
