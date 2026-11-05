@@ -48,7 +48,7 @@ Creativology is a software company specializing in custom web applications, Flut
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,mysql,redis,js,vue,tailwind,bootstrap,flutter,dart,firebase,docker,nginx,linux,git,github&perline=9" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,js,vue,tailwind,bootstrap,flutter,dart,firebase,docker,nginx,linux,git,github&perline=9" alt="Technology stack" />
 
 </div>
 
